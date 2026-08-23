@@ -2,6 +2,8 @@
 
 ### Software Engineer | .NET & Cloud Enthusiast | Security-Minded Builder
 
+##🎓 GATE-qualified in Computer Science & Information Technology — 2025 & 2026
+
 I’m a software engineer with 2+ years of experience building enterprise web applications and integrations. I work across the stack with **ASP.NET Core, Angular, React, SQL Server, and Oracle**, and enjoy turning operational problems into dependable software.
 
 My cloud experience began at **IIT Jammu**, where I built AWS environments with Terraform, developed reusable configuration-automation workflows with Ansible, and helped create cloud-security challenges for CTF events. I’m now actively learning **AI/ML** and exploring practical ways to bring AI into cloud and enterprise applications.
@@ -10,7 +12,7 @@ My cloud experience began at **IIT Jammu**, where I built AWS environments with 
 - ☁️ Interested in cloud architecture, automation, and secure-by-design systems
 - 🛡️ Hands-on with AWS security concepts through CTF challenge development
 - 🌱 Currently learning AI/ML fundamentals and applied AI for software engineering
-- 🎓 GATE-qualified in Computer Science & Information Technology — **2025 & 2026**
+
 
 ## Core stack
 
