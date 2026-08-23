@@ -2,7 +2,7 @@
 
 ### Software Engineer | .NET & Cloud Enthusiast | Security-Minded Builder
 
-### GATE-qualified in Computer Science & Information Technology — **2025 & 2026**
+## GATE-qualified in Computer Science & Information Technology — **2025 & 2026**
 
 I’m a software engineer with 2+ years of experience building enterprise web applications and integrations. I work across the stack with **ASP.NET Core, Angular, React, SQL Server, and Oracle**, and enjoy turning operational problems into dependable software.
 
