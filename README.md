@@ -18,7 +18,8 @@ My cloud experience began at **IIT Jammu**, where I built AWS environments with 
 
 **Backend & APIs**
 
-`C#` `ASP.NET Core 8` `ASP.NET MVC` `Entity Framework Core` `REST APIs` `Swagger / OpenAPI`
+
+`C#` `ASP.NET Core 8` `Node.js` `Express.js` `ASP.NET MVC` `Entity Framework Core` `REST APIs` `Swagger / OpenAPI`
 
 **Frontend**
 
