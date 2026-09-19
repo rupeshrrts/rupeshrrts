@@ -1,6 +1,6 @@
 # Hi, I'm Rupesh Kumar 👋
 
-### Software Engineer | .NET & Cloud Enthusiast | Security-Minded Builder
+### Software Engineer | .NET Engineer | Cloud & AI Enthusiast
 
 #### GATE-qualified in Computer Science & Information Technology — **2025 & 2026**
 
