@@ -33,19 +33,24 @@ My cloud experience began at **IIT Jammu**, where I built AWS environments with 
 
 `SQL Server` `Oracle` `PL/SQL` `SAP Integration` `IIS`
 
+**AI, Agents & RAG**
+
+`Python` `Gen AI` `RAG` `Agentic AI` `LangChain` `LangGraph` `Prompt Engineering`
+
 ## What I work on
 
 - **Enterprise warehouse platforms:** inventory, receiving, picking, packing, dispatch, and dependable SAP–WMS data flows.
 - **Full-stack applications:** responsive Angular/React interfaces backed by scalable .NET APIs and relational data stores.
 - **Cloud automation:** built repeatable AWS infrastructure with Terraform and reusable configuration-automation workflows with Ansible at IIT Jammu.
 - **Security learning:** cloud-security scenarios, threat awareness, and practical security fundamentals.
-- **AI learning journey:** Python and machine-learning foundations, with a focus on secure, useful AI-enabled applications.
+- **AI learning journey:** Python and machine-learning foundations, with a focus on RAG, agentic AI, LangChain, and LangGraph applications.
 
 ## Selected projects
 
 | Project | Highlights | Stack |
 | --- | --- | --- |
 | **AI Chat Application** | A hands-on learning project exploring conversational AI, LLM API integration, prompt design, and secure application workflows. | AI/LLM APIs, ASP.NET Core, React |
+| **GitHubOps AI** | Natural-language GitHub assistant with LangGraph workflows, GitHub API tools, SQLite checkpointing, and human approval for write and delete operations. | Python, LangGraph, LangChain, Streamlit, NVIDIA AI |
 | **CloudLens** | Cloud cost-intelligence SaaS for AWS, Azure, and GCP spend visibility, with optimization recommendations. | Angular, Firebase, JavaScript |
 | **PopMyFlix** | Marketing SaaS platform with campaign automation, payments, and real-time analytics. | Next.js, TypeScript, FastAPI, Firebase |
 
