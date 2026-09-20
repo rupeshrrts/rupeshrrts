@@ -47,13 +47,13 @@ My cloud experience began at **IIT Jammu**, where I built AWS environments with 
 
 ## Selected projects
 
-| Project | Highlights | Stack |
-| --- | --- | --- |
-| **AI Chat Application** | A hands-on learning project exploring conversational AI, LLM API integration, prompt design, and secure application workflows. | AI/LLM APIs, ASP.NET Core, React |
-| **RAG-Based Gen AI Application** | A practical generative AI project focused on retrieval-augmented generation, LLM-powered chat experiences, and AI workflow design for real-world enterprise use cases. | Python, FastAPI, React, LLM APIs, RAG |
-| **GitHubOps AI** | Natural-language GitHub assistant with LangGraph workflows, GitHub API tools, SQLite checkpointing, and human approval for write and delete operations. | Python, LangGraph, LangChain, Streamlit, NVIDIA AI |
-| **CloudLens** | Cloud cost-intelligence SaaS for AWS, Azure, and GCP spend visibility, with optimization recommendations. | Angular, Firebase, JavaScript |
-| **PopMyFlix** | Marketing SaaS platform with campaign automation, payments, and real-time analytics. | Next.js, TypeScript, FastAPI, Firebase |
+| Project | Highlights | Stack | Repository |
+| --- | --- | --- | --- |
+| **[AI Chat Application](https://github.com/rupeshrrts/Chat_Application_With_NVIDIA_LLM)** | A hands-on learning project exploring conversational AI, LLM API integration, prompt design, and secure application workflows. | AI/LLM APIs, ASP.NET Core, React | [View repo](https://github.com/rupeshrrts/Chat_Application_With_NVIDIA_LLM) |
+| **[RAG-Based Gen AI Application](https://github.com/rupeshrrts/YouTube_Transcript_RAG_Pipeline)** | A practical generative AI project focused on retrieval-augmented generation, LLM-powered chat experiences, and AI workflow design for real-world enterprise use cases. | Python, FastAPI, React, LLM APIs, RAG | [View repo](https://github.com/rupeshrrts/YouTube_Transcript_RAG_Pipeline) |
+| **[GitHubOps AI](https://github.com/rupeshrrts/githubops-ai)** | Natural-language GitHub assistant with LangGraph workflows, GitHub API tools, SQLite checkpointing, and human approval for write and delete operations. | Python, LangGraph, LangChain, Streamlit, NVIDIA AI | [View repo](https://github.com/rupeshrrts/githubops-ai) |
+| **CloudLens** | Cloud cost-intelligence SaaS for AWS, Azure, and GCP spend visibility, with optimization recommendations. | Angular, Firebase, JavaScript | Private project / not public on GitHub |
+| **PopMyFlix** | Marketing SaaS platform with campaign automation, payments, and real-time analytics. | Next.js, TypeScript, FastAPI, Firebase | Private project / not public on GitHub |
 
 ## Let’s connect
 
