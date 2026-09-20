@@ -35,7 +35,7 @@ My cloud experience began at **IIT Jammu**, where I built AWS environments with 
 
 **AI, Agents & RAG**
 
-`Python` `Gen AI` `RAG` `Agentic AI` `LangChain` `LangGraph` `Prompt Engineering`
+`Python` `Gen AI` `LLM Integration` `RAG` `Agentic AI` `LangChain` `LangGraph` `Prompt Engineering`
 
 ## What I work on
 
@@ -50,6 +50,7 @@ My cloud experience began at **IIT Jammu**, where I built AWS environments with 
 | Project | Highlights | Stack |
 | --- | --- | --- |
 | **AI Chat Application** | A hands-on learning project exploring conversational AI, LLM API integration, prompt design, and secure application workflows. | AI/LLM APIs, ASP.NET Core, React |
+| **RAG-Based Gen AI Application** | A practical generative AI project focused on retrieval-augmented generation, LLM-powered chat experiences, and AI workflow design for real-world enterprise use cases. | Python, FastAPI, React, LLM APIs, RAG |
 | **GitHubOps AI** | Natural-language GitHub assistant with LangGraph workflows, GitHub API tools, SQLite checkpointing, and human approval for write and delete operations. | Python, LangGraph, LangChain, Streamlit, NVIDIA AI |
 | **CloudLens** | Cloud cost-intelligence SaaS for AWS, Azure, and GCP spend visibility, with optimization recommendations. | Angular, Firebase, JavaScript |
 | **PopMyFlix** | Marketing SaaS platform with campaign automation, payments, and real-time analytics. | Next.js, TypeScript, FastAPI, Firebase |
