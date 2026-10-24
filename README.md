@@ -1,64 +1,93 @@
 # Hi, I'm Rupesh Kumar 👋
 
-### Software Engineer | .NET Engineer | Cloud & AI Enthusiast
+### Full Stack Developer · Java Spring Boot · React & Next.js · Generative & Agentic AI
 
-#### GATE-qualified in Computer Science & Information Technology — **2025 & 2026**
+[![Portfolio](https://img.shields.io/badge/Portfolio-rupesh--kumar--portfolio.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://rupesh-kumar-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupesh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-kumar-508b1820a/)
+[![Email](https://img.shields.io/badge/Email-rupeshsinghsuntech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupeshsinghsuntech@gmail.com)
 
-I’m a software engineer with 2+ years of experience building enterprise web applications and integrations. I work across the stack with **ASP.NET Core, Angular, React, SQL Server, and Oracle**, and enjoy turning operational problems into dependable software.
+Full Stack Developer with **2+ years of experience** building enterprise web applications — **Java / Spring Boot**
+backends, **React, Next.js and Angular** front ends, and **SQL** data layers — and shipping **Generative & Agentic AI**
+features: tool-calling agents, RAG pipelines and MCP tools that connect LLMs to enterprise data.
+**GATE CSIT qualified in 2025 and 2026.**
 
-My cloud experience began at **IIT Jammu**, where I built AWS environments with Terraform, developed reusable configuration-automation workflows with Ansible, and helped create cloud-security challenges for CTF events. I’m now actively learning **AI/ML** and exploring practical ways to bring AI into cloud and enterprise applications.
+- 🏛️ **Software Developer (Full Stack)** at **Digital India Corporation**, MeitY, Govt. of India — from **20 Nov 2026**
+- 🏭 Previously built **Warehouse Management System** modules, a ticketing platform, SAP integrations and AI tooling at **Godrej Koerber**
+- 🛡️ Built and launched **[AgentShieldAI](https://rupesh-agentshield-site.vercel.app)** — a live AI-security SaaS
+- 🤖 Building **AI agents, RAG pipelines and MCP tools** for real-world enterprise use cases
+- 💬 Ask my portfolio's AI agent anything about me → **[rupesh-kumar-portfolio.vercel.app](https://rupesh-kumar-portfolio.vercel.app)**
 
-- 🔭 Building Warehouse Management System modules and SAP integrations at **Godrej Koerber**
-- ☁️ Interested in cloud architecture, automation, and secure-by-design systems
-- 🛡️ Hands-on with AWS security concepts through CTF challenge development
-- 🌱 Currently learning AI/ML fundamentals and applied AI for software engineering
+---
 
+## 🧰 Tech stack
 
-## Core stack
+**Languages**
+`Java` `Python` `JavaScript` `TypeScript` `SQL` `C/C++`
 
-**Backend & APIs**
-
-
-`C#` `ASP.NET Core 8` `Node.js` `Express.js` `ASP.NET MVC` `Entity Framework Core` `REST APIs` `Swagger / OpenAPI`
+**Backend**
+`Spring Boot` `Spring Security` `JPA / Hibernate` `Node.js` `Express.js` `REST APIs`
 
 **Frontend**
+`React.js` `Next.js` `Angular` `HTML5` `CSS3` `Tailwind CSS`
 
-`Angular` `React` `TypeScript` `JavaScript` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS`
+**Databases**
+`PostgreSQL` `SQL Server` `Oracle` `PL/SQL`
 
-**Cloud, DevOps & Security**
+**Generative AI**
+`LLM APIs` `AI Agents` `Tool Calling` `RAG` `MCP` `LangChain` `LangGraph`
 
-`AWS` `EC2` `S3` `VPC` `IAM` `Route 53` `Terraform` `Ansible` `Docker` `CI/CD` `Linux`
+**Cloud & DevOps**
+`AWS` `GCP` `OpenStack` `Docker` `Terraform` `Ansible` `Git` `GitHub` `Linux` `Postman` `Swagger`
 
-**Data & Enterprise Integration**
+---
 
-`SQL Server` `Oracle` `PL/SQL` `SAP Integration` `IIS`
+## 💼 Experience
 
-**AI, Agents & RAG**
+| Role | Company | Period |
+| --- | --- | --- |
+| **Software Developer (Full Stack)** | Digital India Corporation — MeitY, Govt. of India, New Delhi | From 20 Nov 2026 |
+| **Software Engineer** | Godrej Koerber — Navi Mumbai | Dec 2025 – Sep 2026 |
+| **Associate Software Engineer** | Everonic Solutions — Lucknow | Aug 2024 – Nov 2025 |
+| **Cloud Engineer Intern** | IIT Jammu — Jagti, Jammu | Jan 2024 – Jul 2024 |
 
-`Python` `Gen AI` `LLM Integration` `RAG` `Agentic AI` `LangChain` `LangGraph` `Prompt Engineering`
+**Highlights**
+- **Godrej Koerber:** Java / Spring Boot REST APIs for a Warehouse Management System (inventory, receiving, picking,
+  packing, dispatch); a role-based Ticketing Management System with SLA-based escalation; a RAG pipeline for log
+  analysis; a custom MCP server for natural-language database queries; SAP ↔ WMS integrations.
+- **Everonic Solutions:** a full-stack, real-time Vehicle Tracking System — Spring Boot APIs, React / Next.js
+  dashboards for live tracking, route analysis and trip history.
+- **IIT Jammu:** AWS infrastructure (EC2, S3, VPC, Route 53, IAM) automated with Terraform and Ansible; AWS
+  cloud-security challenges for national CTF competitions, including Anveshanam (IIT Jammu & DRDO).
 
-## What I work on
+---
 
-- **Enterprise warehouse platforms:** inventory, receiving, picking, packing, dispatch, and dependable SAP–WMS data flows.
-- **Full-stack applications:** responsive Angular/React interfaces backed by scalable .NET APIs and relational data stores.
-- **Cloud automation:** built repeatable AWS infrastructure with Terraform and reusable configuration-automation workflows with Ansible at IIT Jammu.
-- **Security learning:** cloud-security scenarios, threat awareness, and practical security fundamentals.
-- **AI learning journey:** Python and machine-learning foundations, with a focus on RAG, agentic AI, LangChain, and LangGraph applications.
+## 🚀 Featured projects
 
-## Selected projects
-
-| Project | Highlights | Stack | Repository |
+| Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **[AI Chat Application](https://github.com/rupeshrrts/Chat_Application_With_NVIDIA_LLM)** | A hands-on learning project exploring conversational AI, LLM API integration, prompt design, and secure application workflows. | AI/LLM APIs, ASP.NET Core, React | [View repo](https://github.com/rupeshrrts/Chat_Application_With_NVIDIA_LLM) |
-| **[RAG-Based Gen AI Application](https://github.com/rupeshrrts/YouTube_Transcript_RAG_Pipeline)** | A practical generative AI project focused on retrieval-augmented generation, LLM-powered chat experiences, and AI workflow design for real-world enterprise use cases. | Python, FastAPI, React, LLM APIs, RAG | [View repo](https://github.com/rupeshrrts/YouTube_Transcript_RAG_Pipeline) |
-| **[GitHubOps AI](https://github.com/rupeshrrts/githubops-ai)** | Natural-language GitHub assistant with LangGraph workflows, GitHub API tools, SQLite checkpointing, and human approval for write and delete operations. | Python, LangGraph, LangChain, Streamlit, NVIDIA AI | [View repo](https://github.com/rupeshrrts/githubops-ai) |
-| **CloudLens** | Cloud cost-intelligence SaaS for AWS, Azure, and GCP spend visibility, with optimization recommendations. | Angular, Firebase, JavaScript | Private project / not public on GitHub |
-| **PopMyFlix** | Marketing SaaS platform with campaign automation, payments, and real-time analytics. | Next.js, TypeScript, FastAPI, Firebase | Private project / not public on GitHub |
+| **🛡️ AgentShieldAI** | Browser extension + SaaS dashboard that checks every prompt sent to ChatGPT, Claude, Gemini, Copilot and Perplexity — blocks API keys, passwords and tokens, and auto-redacts personal data, with per-rule block / warn / redact controls. | Browser Extension, SaaS, Vercel | **[Live](https://rupesh-agentshield-site.vercel.app)** |
+| **🌐 Portfolio + AI Agent** | My portfolio with a built-in AI chat agent that answers questions about my work, a contact form with instant email alerts, and data stored on Supabase. | Next.js, React, Node.js, Express, Supabase, Vercel | **[Live](https://rupesh-kumar-portfolio.vercel.app)** |
+| **⚙️ GitHubOps AI** | Natural-language GitHub automation assistant with LangGraph workflows and GitHub API tools; human-in-the-loop approval for write/delete operations and SQLite checkpointing. | Python, LangGraph, LangChain, Streamlit, NVIDIA AI | [Repo](https://github.com/rupeshrrts/githubops-ai) |
+| **📚 RAG-Based GenAI Application** | Retrieval-augmented generation app with a FastAPI backend and React chat interface that answers from retrieved context for enterprise use cases. | Python, FastAPI, React, LLM APIs, RAG | [Repo](https://github.com/rupeshrrts/YouTube_Transcript_RAG_Pipeline) |
+| **📣 PopMyFlix** | Marketing SaaS with multi-channel ad automation, live payments and real-time campaign analytics, serving 1,000+ daily requests. | Next.js, TypeScript, GSAP, Framer Motion, FastAPI, Firebase | Private |
+| **☁️ CloudLens** | Cloud cost-intelligence platform integrating AWS, Azure and GCP to visualise real-time spend and reduce idle-resource waste. | HTML, CSS, JavaScript, Bootstrap, Firebase | Private |
 
-## Let’s connect
+---
 
-- 📱 +91 7033942649
-- 📫 [rupeshsinghsuntech@gmail.com](mailto:rupeshsinghsuntech@gmail.com)
-- 💻 [github.com/rupeshrrts](https://github.com/rupeshrrts)
+## 🎓 Education & achievements
 
-> I believe strong software is not only functional—it is scalable, observable, and secure by design.
+- **B.Tech, Computer Science & Engineering** — Shaheed Bhagat Singh State Technical Campus, Ferozepur · CGPA **8.15 / 10**
+- 🏆 **Qualified GATE CSIT in 2025 and 2026**
+- 💻 **150+ DSA problems** solved on LeetCode and GeeksforGeeks
+- 🛡️ Challenge author for **Anveshanam**, a national CTF by IIT Jammu & DRDO
+
+---
+
+## 🤝 Let's connect
+
+- 🌐 **Portfolio:** [rupesh-kumar-portfolio.vercel.app](https://rupesh-kumar-portfolio.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/rupesh-kumar-508b1820a](https://www.linkedin.com/in/rupesh-kumar-508b1820a/)
+- 📫 **Email:** [rupeshsinghsuntech@gmail.com](mailto:rupeshsinghsuntech@gmail.com)
+- 📱 **Phone:** +91 7033942649
+
+> I believe strong software is not only functional — it is scalable, observable, and secure by design.
