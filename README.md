@@ -1,4 +1,4 @@
-# Hi, I'm Rupesh Kumar 👋
+# Hi, I'm Rupesh Kumar 
 
 ### Full Stack Developer · Java Spring Boot · React & Next.js · Generative & Agentic AI
 
@@ -61,16 +61,16 @@ features: tool-calling agents, RAG pipelines and MCP tools that connect LLMs to 
 
 ---
 
-## 🚀 Featured projects
+##  Featured projects
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **🛡️ AgentShieldAI** | Browser extension + SaaS dashboard that checks every prompt sent to ChatGPT, Claude, Gemini, Copilot and Perplexity — blocks API keys, passwords and tokens, and auto-redacts personal data, with per-rule block / warn / redact controls. | Browser Extension, SaaS, Vercel | **[Live](https://rupesh-agentshield-site.vercel.app)** |
-| **🌐 Portfolio + AI Agent** | My portfolio with a built-in AI chat agent that answers questions about my work, a contact form with instant email alerts, and data stored on Supabase. | Next.js, React, Node.js, Express, Supabase, Vercel | **[Live](https://rupesh-kumar-portfolio.vercel.app)** |
-| **⚙️ GitHubOps AI** | Natural-language GitHub automation assistant with LangGraph workflows and GitHub API tools; human-in-the-loop approval for write/delete operations and SQLite checkpointing. | Python, LangGraph, LangChain, Streamlit, NVIDIA AI | [Repo](https://github.com/rupeshrrts/githubops-ai) |
-| **📚 RAG-Based GenAI Application** | Retrieval-augmented generation app with a FastAPI backend and React chat interface that answers from retrieved context for enterprise use cases. | Python, FastAPI, React, LLM APIs, RAG | [Repo](https://github.com/rupeshrrts/YouTube_Transcript_RAG_Pipeline) |
-| **📣 PopMyFlix** | Marketing SaaS with multi-channel ad automation, live payments and real-time campaign analytics, serving 1,000+ daily requests. | Next.js, TypeScript, GSAP, Framer Motion, FastAPI, Firebase | Private |
-| **☁️ CloudLens** | Cloud cost-intelligence platform integrating AWS, Azure and GCP to visualise real-time spend and reduce idle-resource waste. | HTML, CSS, JavaScript, Bootstrap, Firebase | Private |
+| **🛡️AgentShieldAI** | Browser extension + SaaS dashboard that checks every prompt sent to ChatGPT, Claude, Gemini, Copilot and Perplexity — blocks API keys, passwords and tokens, and auto-redacts personal data, with per-rule block / warn / redact controls. | Browser Extension, SaaS, Vercel | **[Live](https://rupesh-agentshield-site.vercel.app)** |
+| **Portfolio + AI Agent** | My portfolio with a built-in AI chat agent that answers questions about my work, a contact form with instant email alerts, and data stored on Supabase. | Next.js, React, Node.js, Express, Supabase, Vercel | **[Live](https://rupesh-kumar-portfolio.vercel.app)** |
+| **GitHubOps AI** | Natural-language GitHub automation assistant with LangGraph workflows and GitHub API tools; human-in-the-loop approval for write/delete operations and SQLite checkpointing. | Python, LangGraph, LangChain, Streamlit, NVIDIA AI | [Repo](https://github.com/rupeshrrts/githubops-ai) |
+| ** RAG-Based GenAI Application** | Retrieval-augmented generation app with a FastAPI backend and React chat interface that answers from retrieved context for enterprise use cases. | Python, FastAPI, React, LLM APIs, RAG | [Repo](https://github.com/rupeshrrts/YouTube_Transcript_RAG_Pipeline) |
+| **PopMyFlix** | Marketing SaaS with multi-channel ad automation, live payments and real-time campaign analytics, serving 1,000+ daily requests. | Next.js, TypeScript, GSAP, Framer Motion, FastAPI, Firebase | Private |
+| **CloudLens** | Cloud cost-intelligence platform integrating AWS, Azure and GCP to visualise real-time spend and reduce idle-resource waste. | HTML, CSS, JavaScript, Bootstrap, Firebase | Private |
 
 ---
 
