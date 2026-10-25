@@ -2,6 +2,8 @@
 
 ### Full Stack Developer · Java Spring Boot · React & Next.js · Generative & Agentic AI
 
+🌐 **Portfolio → [rupesh-kumar-portfolio.vercel.app](https://rupesh-kumar-portfolio.vercel.app)** — see my work and chat with my AI agent
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-rupesh--kumar--portfolio.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://rupesh-kumar-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupesh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-kumar-508b1820a/)
 [![Email](https://img.shields.io/badge/Email-rupeshsinghsuntech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupeshsinghsuntech@gmail.com)
@@ -14,8 +16,9 @@ features: tool-calling agents, RAG pipelines and MCP tools that connect LLMs to 
 - 🏛️ **Software Developer (Full Stack)** at **Digital India Corporation**, MeitY, Govt. of India — from **20 Nov 2026**
 - 🏭 Previously built **Warehouse Management System** modules, a ticketing platform, SAP integrations and AI tooling at **Godrej Koerber**
 - 🛡️ Built and launched **[AgentShieldAI](https://rupesh-agentshield-site.vercel.app)** — a live AI-security SaaS
+- ⚙️ Built **[GitHubOps AI](https://githubops-ai.vercel.app/)** — run GitHub by chat with an AI agent, and approve every change ([live demo](https://githubops-ai.vercel.app/), no sign-in needed)
 - 🤖 Building **AI agents, RAG pipelines and MCP tools** for real-world enterprise use cases
-- 💬 Ask my portfolio's AI agent anything about me → **[rupesh-kumar-portfolio.vercel.app](https://rupesh-kumar-portfolio.vercel.app)**
+- 🌐 Built my **[Portfolio + AI Agent](https://rupesh-kumar-portfolio.vercel.app)** — a full-stack site with a built-in AI chat agent; ask it anything about me → **[rupesh-kumar-portfolio.vercel.app](https://rupesh-kumar-portfolio.vercel.app)**
 
 ---
 
@@ -66,8 +69,8 @@ features: tool-calling agents, RAG pipelines and MCP tools that connect LLMs to 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
 | **🛡️ AgentShieldAI** | Browser extension + SaaS dashboard that checks every prompt sent to ChatGPT, Claude, Gemini, Copilot and Perplexity — blocks API keys, passwords and tokens, and auto-redacts personal data, with per-rule block / warn / redact controls. | Browser Extension, SaaS, Vercel | **[Live](https://rupesh-agentshield-site.vercel.app)** |
-| **🌐 Portfolio + AI Agent** | My portfolio with a built-in AI chat agent that answers questions about my work, a contact form with instant email alerts, and data stored on Supabase. | Next.js, React, Node.js, Express, Supabase, Vercel | **[Live](https://rupesh-kumar-portfolio.vercel.app)** |
-| **⚙️ GitHubOps AI** | Natural-language GitHub automation assistant with LangGraph workflows and GitHub API tools; human-in-the-loop approval for write/delete operations and SQLite checkpointing. | Python, LangGraph, LangChain, Streamlit, NVIDIA AI | [Repo](https://github.com/rupeshrrts/githubops-ai) |
+| **⚙️ GitHubOps AI** | Team portal where an AI agent runs your repositories, issues, pull requests and Actions by chat — every write or delete waits for human approval, risky actions go to an admin for review, and every action is recorded in an audit log. Roles, sign in with GitHub, and your GitHub token stays in your browser, never in the database. Built on LangGraph workflows with GitHub API tools. | Python, LangGraph, LangChain, GitHub API, NVIDIA AI, Vercel | **[Live demo](https://githubops-ai.vercel.app/)** · [Repo](https://github.com/rupeshrrts/githubops-ai) |
+| **🌐 Portfolio + AI Agent** | My full-stack portfolio with a built-in AI chat agent that answers questions about my work, projects, skills and education. Includes a contact form with instant email alerts, a visit counter, a Ctrl + K command palette, and animated live demos of my featured projects. Data is stored on Supabase, with the API running as Vercel serverless functions. | Next.js, React, Framer Motion, Node.js, Express, Supabase, Vercel | **[Live](https://rupesh-kumar-portfolio.vercel.app)** |
 | **📚 RAG-Based GenAI Application** | Retrieval-augmented generation app with a FastAPI backend and React chat interface that answers from retrieved context for enterprise use cases. | Python, FastAPI, React, LLM APIs, RAG | [Repo](https://github.com/rupeshrrts/YouTube_Transcript_RAG_Pipeline) |
 | **📣 PopMyFlix** | Marketing SaaS with multi-channel ad automation, live payments and real-time campaign analytics, serving 1,000+ daily requests. | Next.js, TypeScript, GSAP, Framer Motion, FastAPI, Firebase | Private |
 | **☁️ CloudLens** | Cloud cost-intelligence platform integrating AWS, Azure and GCP to visualise real-time spend and reduce idle-resource waste. | HTML, CSS, JavaScript, Bootstrap, Firebase | Private |
