@@ -1,4 +1,4 @@
-# Hi, I'm Rupesh Kumar 👋
+# Hi, I'm Rupesh Kumar 
 
 ### Full Stack Developer · Java Spring Boot · React & Next.js · Generative & Agentic AI
 
